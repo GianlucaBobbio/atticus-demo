@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "part": "Coca-Cola",
+        "term": "1 año",
+        "amount": "20.342",
+        "area": "RRHH",
+        "expiration": "5 días",
+        "type": "draft"
+    },{
+        "id": 1,
+        "part": "Coca-Cola",
+        "term": "1 año",
+        "amount": "20.342",
+        "area": "RRHH",
+        "expiration": "5 días",
+        "type": "draft"
+    },{
+        "id": 1,
+        "part": "Coca-Cola",
+        "term": "1 año",
+        "amount": "20.342",
+        "area": "RRHH",
+        "expiration": "5 días",
+        "type": "final"
+    },{
+        "id": 1,
+        "part": "Coca-Cola",
+        "term": "1 año",
+        "amount": "20.342",
+        "area": "RRHH",
+        "expiration": "5 días",
+        "type": "final"
+    },{
+        "id": 1,
+        "part": "Coca-Cola",
+        "term": "1 año",
+        "amount": "20.342",
+        "area": "RRHH",
+        "expiration": "5 días",
+        "type": "draft"
+    }
+]

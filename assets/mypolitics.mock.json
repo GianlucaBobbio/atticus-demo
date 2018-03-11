@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Encabezado",
+        "type": "required",
+        "description": "Una descripcion corta"
+    },{
+        "name": "Encabezado",
+        "type": "required",
+        "description": "Una descripcion muuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuy muy muy muy muy muy muy muy muy muy larga"
+    },{
+        "name": "Encabezado",
+        "type": "negotiable",
+        "description": ""
+    },{
+        "name": "Encabezado",
+        "type": "",
+        "description": "Nada"
+    },{
+        "name": "Encabezado",
+        "type": "negotiable",
+        "description": "Algo"
+    }
+]

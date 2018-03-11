@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "stars": 0,
+    "name": "Alquiler de Casa o Departamento",
+    "description": "Es un contrato que se realiza cuando se alquila una propiedad inmueble, por un tiempo y monto determinado",
+    "type":"private",
+    "source": "own"
+},{
+    "id": 2,
+    "stars": 2,
+    "name": "Alquiler de Casa o Departamento",
+    "description": "Es un contrato que se realiza cuando se alquila una propiedad inmueble, por un tiempo y monto determinado",
+    "type":"public",
+    "source": "own"
+},{
+    "id": 3,
+    "stars": 3,
+    "name": "Alquiler de Casa o Departamento",
+    "description": "Es un contrato que se realiza cuando se alquila una propiedad inmueble, por un tiempo y monto determinado",
+    "type":"public",
+    "source": "buyed"
+},{
+    "id": 4,
+    "stars": 3,
+    "name": "Alquiler de Casa o Departamento",
+    "description": "Es un contrato que se realiza cuando se alquila una propiedad inmueble, por un tiempo y monto determinado",
+    "type":"public",
+    "source": "buyed"
+},{
+    "id": 5,
+    "stars": 4,
+    "name": "Alquiler de Casa o Departamento",
+    "description": "Es un contrato que se realiza cuando se alquila una propiedad inmueble, por un tiempo y monto determinado",
+    "type":"public",
+    "source": "buyed"
+},{
+    "id": 6,
+    "stars": 0,
+    "name": "Alquiler de Casa o Departamento",
+    "description": "Es un contrato que se realiza cuando se alquila una propiedad inmueble, por un tiempo y monto determinado",
+    "type":"private",
+    "source": "own"
+}]

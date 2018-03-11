@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "name": "Contrato de Alquiler de Inmueble",
+    "description": "Es un contrato que se realiza cuando se alquila una propiedad inmueble por un tiempo determinado y para fines determinados, estableciendo el monto de pago para el uso de dicha propiedad.",
+    "price": "100",
+    "creatorName": "TolTLaw (14)",
+    "creatorRole": "Abogado",
+    "dataRequired": [{
+        "name": "Propietario e Inquilino",
+        "fields": ["Nombre y Apellido o Razón Social", "DNI o CUIT/CUIL", "Domicilio"]
+    },{
+        "name": "Propietario e Inquilino",
+        "fields": ["Nombre y Apellido o Razón Social", "DNI o CUIT/CUIL", "Domicilio"]
+    },{
+        "name": "Propietario e Inquilino",
+        "fields": ["Nombre y Apellido o Razón Social", "DNI o CUIT/CUIL", "Domicilio"]
+    }],
+    "stars": 3,
+    "reviewsNumber": 11,
+    "body": "<b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Morbi non elit est. Aenean consectetur auctor eros, tincidunt porta tellus dapibus vitae. Suspendisse lorem nunc, gravida sed magna vestibulum, varius lobortis nisi. Nunc ornare vehicula nibh, eu scelerisque tortor sagittis feugiat. Maecenas iaculis tortor vel vehicula laoreet. Praesent luctus leo a finibus pretium. Nunc dui tellus, efficitur vel rutrum sed, vestibulum ullamcorper ante. <br> Aliquam rhoncus est ac orci accumsan finibus. Phasellus vulputate, ante at euismod lobortis, metus massa fermentum justo, et venenatis augue nisl et quam. Vivamus eget purus et turpis feugiat accumsan nec ut sapien. Donec a gravida lacus, non venenatis nunc. Nam pellentesque lorem a egestas dignissim. Aenean et facilisis diam. Suspendisse ut dui malesuada, elementum justo a, blandit lacus. Vivamus ornare pulvinar odio, sit amet tincidunt turpis semper at. Aenean mi diam, vehicula in ex eu, faucibus aliquet magna. Praesent eu sagittis nisl. Suspendisse cursus vulputate ipsum, sit amet posuere odio tincidunt vulputate. Fusce et tellus molestie, tincidunt metus ut, varius magna. Curabitur at sollicitudin nibh. Nullam neque felis, pretium ut ipsum quis, ornare egestas justo. Aenean consequat ullamcorper ante in posuere. Duis sollicitudin tellus sit amet lectus condimentum porttitor. <br> Nullam sit amet ligula viverra, luctus nisi ut, vehicula ante. Sed ac rhoncus metus. Donec euismod commodo gravida. Mauris convallis quis ipsum vel laoreet. Nulla facilisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sapien sapien, viverra sit amet molestie egestas, accumsan vel elit. Praesent sem velit, venenatis a nulla non, tempus tincidunt mi. Integer nec laoreet tortor. Nunc faucibus bibendum lobortis. Suspendisse dignissim urna non mi pulvinar scelerisque. Fusce elementum, magna sit amet mollis venenatis, nisl augue vulputate elit, sed aliquam lectus purus accumsan erat. Duis ultricies velit ut rhoncus condimentum. Cras quam dui, aliquet in neque et, congue lacinia nisi. Proin consectetur elit sollicitudin sem tempus, vel venenatis ante interdum. <br> Proin non ante eget dolor porttitor rhoncus eu vitae tellus. Nulla nec est mi. Quisque pretium nibh et tellus faucibus fringilla. Duis aliquet dignissim gravida. Quisque imperdiet arcu vitae justo pretium, nec interdum mauris posuere. In ac tellus in augue placerat finibus. Mauris ac ultrices sem, sed hendrerit augue. Fusce sed lacinia dui. Donec faucibus, odio et blandit fringilla, ligula quam ultrices purus, porta efficitur enim libero pretium ante. Sed egestas faucibus quam et dignissim. Nullam dictum velit sit amet magna tempus, maximus ultricies sem blandit. In tempor volutpat justo, nec porttitor mi condimentum ac. Phasellus eu odio sit amet orci mollis feugiat. Aliquam elementum magna in enim efficitur, sit amet iaculis quam tempor. Curabitur fermentum nunc non rutrum eleifend. <br> Cras suscipit, mi a imperdiet dignissim, sem libero consequat quam, non bibendum magna sapien ut sapien. Quisque nec molestie nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis in ornare risus. Praesent dui ligula, sodales eget sapien nec, aliquet malesuada erat. Sed sodales ipsum lacus, vitae lacinia eros euismod a. Quisque nec pellentesque lectus. Suspendisse hendrerit mollis vehicula. Mauris non interdum ante. Nam pellentesque iaculis eleifend. Nam nec ante massa. Integer euismod pretium elementum.",
+    "type":"public",
+    "owned": false,
+    "vto": null,
+    "autorenew": true,
+    "term": 24,
+    "contractObject": "Locacion del inmueble",
+    "payment" : "Al dia",
+    "amount": 1200
+}

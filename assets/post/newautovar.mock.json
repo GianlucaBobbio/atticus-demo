@@ -1,0 +1,5 @@
+{
+    "name": "Tipo Doc",
+    "type": "List",
+    "values": ["DNI","CUIL","CUIT"]
+}

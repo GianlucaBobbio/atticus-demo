@@ -1,0 +1,56 @@
+{
+    "people":[{
+        "name": "Datos del Inquilino",
+        "role": "inquilino",
+        "fields":[{
+            "name": "Nombre_y_Apellido",
+            "type": "string"
+        },{
+            "name": "Tipo_de_documento",
+            "type": "combo",
+            "name2": "Numero_de_documento",
+            "options": ["DNI", "CUIT", "CUIL"]
+        },{
+            "name": "Domicilio",
+            "type": "string"
+        },{
+            "name": "Provincia",
+            "type": "list",
+            "options": ["Capital_Federal", "Santa_Fe", "Cordoba"]
+        }]
+    },{
+        "name": "Datos del Propietario",
+        "role": "inquilino",
+        "fields":[{
+            "name": "Nombre_y_Apellido",
+            "type": "string"
+        },{
+            "name": "Tipo_de_documento",
+            "type": "combo",
+            "name2": "Numero_de_documento",
+            "options": ["DNI", "CUIT", "CUIL"]
+        }]
+    }],
+    "extra": {
+        "name": "Datos del Inmueble",
+        "fields":[{
+            "name": "Domicilio_del_inmueble_a_alquilar",
+            "type": "string"
+        },{
+            "name": "Valor_mensual_en_pesos_del_alquiler",
+            "type": "float"
+        },{
+            "name": "Plazos_en_meses",
+            "type": "int"
+        },{
+            "name": "Fecha_inicio",
+            "type": "date"
+        },{
+            "name": "Fecha_fin",
+            "type": "date"
+        },{
+            "name": "Jurisdicción y ley aplicable",
+            "type": "string"
+        }]
+    }
+}

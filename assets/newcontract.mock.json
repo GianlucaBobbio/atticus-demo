@@ -1,0 +1,33 @@
+{
+    "politics": [
+        {
+            "name": "Encabezado",
+            "required": true,
+            "apply": null
+        },
+        {
+            "name": "Plazo",
+            "required": true,
+            "apply": null
+        },
+        {
+            "name": "Jurisdicción",
+            "required": false,
+            "apply": null
+        }
+    ],
+    "autovars": [
+        {
+            "name": "Inquilino",
+            "syntax": "[[inquilino]]"
+        },
+        {
+            "name": "Plazo",
+            "syntax": "[[plazo]]"
+        },
+        {
+            "name": "Direccion",
+            "syntax": "[[direccion]]"
+        }
+    ]
+}

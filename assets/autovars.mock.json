@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Inquilino",
+        "syntax": "[[inquilino]]"
+    },
+    {
+        "name": "Plazo",
+        "syntax": "[[plazo]]"
+    },
+    {
+        "name": "Direccion",
+        "syntax": "[[direccion]]"
+    }
+]

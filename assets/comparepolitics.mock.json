@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Encabezado",
+        "required": true,
+        "apply": true
+    },
+    {
+        "name": "Plazo",
+        "required": true,
+        "apply": false
+    },
+    {
+        "name": "Jurisdicción",
+        "required": false,
+        "apply": false
+    }
+]
